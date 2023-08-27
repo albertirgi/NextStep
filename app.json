@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "name": "NextStep",
+    "slug": "NextStep",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "fb691d7d-a829-42b6-b496-e07c924a7a5b"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/fb691d7d-a829-42b6-b496-e07c924a7a5b"
+    },
+    "android": {},
+    "ios": {}
+  }
+}
